@@ -7,22 +7,12 @@ useful links for my final exam
 ## Skills
 
 The student, on her own, is able to:
-
- -  Use the command line:
-     -  Traversing directories
-     -  Moving, copying, creating, deleting files
-     -  Passing command line arguments to commands
- -  Use git:
-     -  Commit, add, push, pull
-     -  Review other's code
- -  Follow indentation and coding styleguides in their code
-
- -  Create variables and methods on a given specification(https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/Reverse.java)
+ -  [Create variables and methods on a given specification](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/Reverse.java)
  -  Use conditions and loops:
      -  Filtering: [Counting Duplicates](https://www.codewars.com/users/barbarasimandi/completed_solutions)
      -  [Finding elements or index](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-4/src/FindThePartOfInt.java)
      -  [Generating lists](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/Matchmaking.java)
-     -  [Checking multiple values and counting [Most Digits](https://www.codewars.com/users/barbarasimandi/completed_solutions)
+     -  Checking multiple values and counting [Most Digits](https://www.codewars.com/users/barbarasimandi/completed_solutions)
      -  [Mapping values](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/StudentCounter.java)
  -  Use object orientation: Garden
      -  Create and inherit classes including fields and methods on a given specification 
