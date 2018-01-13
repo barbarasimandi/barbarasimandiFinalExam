@@ -28,28 +28,28 @@ The student, on her own, is able to:
 
 # Backend Orientation Exam Competencies
 
-## [Interfaces and abstract classes]()
+## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
+- usage of [interfaces](https://github.com/greenfox-academy/barbarasimandi/tree/master/week-06/day-3/birthdaycalculator/src/main/java/date) and [abstract classes](https://github.com/greenfox-academy/barbarasimandi/tree/master/week-06/day-2/src/main/java/music)
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
-## [Queries]()
+## Queries
 
-- usage of language integrated queries e.g. LINQ/StreamApi
+- usage of language integrated queries e.g.[StreamApi](https://github.com/barbarasimandi/StreamPractice/blob/master/src/Excercise3.java)
 - understanding the syntax
-- able to write simple custom queries
+- [able to write simple custom queries](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-08/day-2/Connection_with_MySQL/src/main/java/com/greenfox/connection/repository/TodoRepository.java)
 
 ## Build tool
 
-- use build tools to build and run your applications e.g. gradle/.Net CLI 
+- use build tools to build and run your applications e.g. [gradle](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-09/day-3/restcontroller/build.gradle) 
 - dependency definition
 - able to restore 3rd party library dependencies
 
 ## 3rd party libraries
 
-- able to add and use libraries
-- find documentation and usage examples
+- [able to add and use libraries](https://github.com/greenfox-academy/SocialLifeHelper/blob/dzs/src/main/java/com/greenfox/blackjackbot/webhook/CallBackHandler.java)
+- [find documentation and usage examples](https://developers.giphy.com/docs/)
 
 ## [Backend Framework]()
 
@@ -73,7 +73,7 @@ The student, on her own, is able to:
 - understanding Object Relational Mapping
   - with using library: JPA/EF Core
 - connection between:
-  - tables and classes
+  - tables and classes#
   - records and objects
   - columns and fields/properties
   
@@ -110,7 +110,7 @@ The student, on her own, is able to:
 
 ## Skills
 
-### Common
+### Common#
 
 The student, on their own, is able to:
  -  Use git:
@@ -129,29 +129,6 @@ The student, on their own, is able to:
  -  Integration testing
  -  Differentiate between backend and frontend (client) functionality
 
-
-
-### Backend
-
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
- -  Authentication:
-     -  Handle authentication
-     -  Handle token based authorization
- -  Database
-     - Using complex data structures
-     - Understanding and using table connections
-     - Understanding migration 
-
-### Fullstack
-
- -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
-     -  Determining the calling order in nested callbacks
- -  Understanding and using rich web application framework:
-     -  Components, configuration, dependencies, extensions
-     -  Handle Authentication
 
 ### Mobile
 
