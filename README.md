@@ -1,4 +1,3 @@
-# barbarasimandiFinalExam
 useful links for my final exam
 
 
@@ -17,22 +16,23 @@ The student, on her own, is able to:
      -  Commit, add, push, pull
      -  Review other's code
  -  Follow indentation and coding styleguides in their code
- -  Create variables and methods on a given specification
+
+ -  Create variables and methods on a given specification(https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/Reverse.java)
  -  Use conditions and loops:
-     -  [Filtering]()
-     -  [Finding elements or index]()
-     -  [Generating lists]()
-     -  [Checking multiple values and counting]()
-     -  [Maping values]()
- -  Use object orientation:
-     -  [Create and inherit classes including fields and methods on a given specification]()
+     -  Filtering: [Counting Duplicates](https://www.codewars.com/users/barbarasimandi/completed_solutions)
+     -  [Finding elements or index](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-4/src/FindThePartOfInt.java)
+     -  [Generating lists](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/Matchmaking.java)
+     -  [Checking multiple values and counting [Most Digits](https://www.codewars.com/users/barbarasimandi/completed_solutions)
+     -  [Mapping values](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-02/day-3/src/StudentCounter.java)
+ -  Use object orientation: Garden
+     -  Create and inherit classes including fields and methods on a given specification 
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
-     -  [Understanding "this" keyword]()
- -  [Handle errors and exceptions]()
- -  Determine the output of expressions
+     -  [Understanding "this" keyword](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-04/day-2/src/PallidaClass.java)
+ -  Handle errors and exceptions SumTheArray
+ -  Determine the output of expressions SumTheArray
  -  Explain their own code
- -  [Write unit tests]() [for functions and methods]()
+ -  [Write unit tests](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-04/day-3/test/AnagramTest.java) [for functions and methods](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-04/day-3/test/FibonacciTest.java)
 
 
 
