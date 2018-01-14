@@ -112,9 +112,9 @@ The student, on her own, is able to:
 
 ## Skills
 
-### Common#
+### Common
 
-The student, on their own, is able to:
+The student, on her own, is able to:
  -  Use git:
      -  Resolving a simple merge conflict
      -  Creating a pull request
