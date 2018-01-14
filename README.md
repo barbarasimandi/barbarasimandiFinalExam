@@ -51,33 +51,35 @@ The student, on her own, is able to:
 - [able to add and use libraries](https://github.com/greenfox-academy/SocialLifeHelper/blob/dzs/src/main/java/com/greenfox/blackjackbot/webhook/CallBackHandler.java)
 - [find documentation and usage examples](https://developers.giphy.com/docs/)
 
-## [Backend Framework]()
+## [Backend Framework](https://github.com/greenfox-academy/barbarasimandi_p2p_chatApp/tree/master/src/main/java/com/greenfox/barbi/p2pchatapp)
 
-- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+- creating a Web Application with the given backend framework e.g. Spring
 - understanding the used components
 - find documentation and usage examples
 - understanding the framework and the application as web backend
 - able to create examples for competencies of web backend
-- using a templating system e.g. Thymeleaf/Razor Pages
+- using a templating system e.g. Thymeleaf
 - able to use the framework's special Dependency Injection system
 - usage of the framework's IoC container
 - able to alter basic configurations
 - understanding the flow of HTTP
 
-## [Data persistance]()
+## Data persistance
 
-- understanding and usage of basic SQL commands
+- [understanding and usage of basic SQL commands](https://sqlbolt.com/lesson/inserting_rows)
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
-  - database framework configuration
+  - database framework configuration:
+		- [TodoApp](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-08/day-2/Connection_with_MySQL/src/main/resources/application.properties)
+		- [RoastBackend](https://github.com/barbarasimandi/roastbackend/blob/master/src/main/resources/application.properties)
 - understanding Object Relational Mapping
-  - with using library: JPA/EF Core
-- connection between:
-  - tables and classes#
+  - with using library: JPA
+- [connection between:](https://github.com/greenfox-academy/barbarasimandi/tree/master/week-08/day-2/Connection_with_MySQL/src/main/java/com/greenfox/connection/model)
+  - tables and classes
   - records and objects
   - columns and fields/properties
   
-## Web backend
+## [Web backend](https://github.com/greenfox-academy/barbarasimandi/tree/master/week-08/day-5/src/main/java/com/greenfox/reddit)
 
 - domain
 - parts of the URL
@@ -90,14 +92,14 @@ The student, on her own, is able to:
 - body
 - templates
 
-### [REST Web backend]()
+### [REST Web backend](https://github.com/greenfox-academy/barbarasimandi_p2p_chatApp/tree/master/src/main/java/com/greenfox/barbi/p2pchatapp)
 
 - understand what is an API and can use it
 - use JSON objects
 - understand the concept of serialization
 - able to use Postman
 
-## [Endpoint tests]()
+## [Endpoint tests](https://github.com/greenfox-academy/barbarasimandi/blob/master/week-09/day-3/restcontroller/src/test/java/com/greenfox/barbi/restcontroller/RestcontrollerApplicationTests.java)
 
 - able to make difference between unit test and integration test
 - create endpoint test
