@@ -135,7 +135,7 @@ The student, on her own, is able to:
 ### Mobile
 
  -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
+     -  [Writing functions that are taking and calling callbacks](https://github.com/greenfox-academy/huli-kalendaryo-android/tree/dev/app/src/main/java/com/greenfox/kalendaryo)
  -  Understanding and using mobile framework:
      -  Components, configuration, dependencies, extensions
  -  Designing multiple screens
