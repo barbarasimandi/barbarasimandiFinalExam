@@ -123,7 +123,7 @@ The student, on her own, is able to:
  -  Refactor code:
      -  Create meaningful names for methods, classes and variables
      -  Split bigger functions to smaller ones
-     -  Separate functionalities to different files
+     -  [Separate functionalities to different files](https://github.com/greenfox-academy/huli-kalendaryo-android/pull/23/commits/53072549c58992041f701ecb87d2da3c4a7a08d2)
      -  Point out code smells
  -  Understand base concept of hosting
  -  Deployment and continuous integration
